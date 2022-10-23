@@ -1,0 +1,80 @@
+[
+  {
+    "temperatura": "32",
+    "humedad": "18",
+    "presion": "13",
+    "hora": "06:00"
+  },
+  {
+    "temperatura": "34",
+    "humedad": "20",
+    "presion": "14",
+    "hora": "07:00"
+  },
+  {
+    "temperatura": "38",
+    "humedad": "22",
+    "presion": "15",
+    "hora": "08:00"
+  },
+  {
+    "temperatura": "40",
+    "humedad": "24",
+    "presion": "16",
+    "hora": "09:00"
+  },
+  {
+    "temperatura": "42",
+    "humedad": "16",
+    "presion": "19",
+    "hora": "10:00"
+  },
+  {
+    "temperatura": "44",
+    "humedad": "14",
+    "presion": "18",
+    "hora": "11:00"
+  },
+  {
+    "temperatura": "46",
+    "humedad": "26",
+    "presion": "17",
+    "hora": "12:00"
+  },
+  {
+    "temperatura": "48",
+    "humedad": "28",
+    "presion": "15",
+    "hora": "13:00"
+  },
+  {
+    "temperatura": "50",
+    "humedad": "30",
+    "presion": "13",
+    "hora": "14:00"
+  },
+  {
+    "temperatura": "52",
+    "humedad": "10",
+    "presion": "19",
+    "hora": "15:00"
+  },
+  {
+    "temperatura": "54",
+    "humedad": "32",
+    "presion": "12",
+    "hora": "16:00"
+  },
+  {
+    "temperatura": "56",
+    "humedad": "8",
+    "presion": "19",
+    "hora": "17:00"
+  },
+  {
+    "temperatura": "58",
+    "humedad": "12",
+    "presion": "11",
+    "hora": "18:00"
+  }
+]
