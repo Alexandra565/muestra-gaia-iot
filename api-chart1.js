@@ -1,3 +1,7 @@
+/*****************************************************************************/
+//---------------------GRÁFICO DE LA PRESIÓN ATMOSFÉRICA---------------------//
+/*****************************************************************************/
+
 var hora = [];
 var presion = [];
 const color2 = "rgb(255,83,127)";
@@ -31,7 +35,6 @@ fetch("dataSet.json")
     };
     // Estilos de la gráfica
     var layout = {
-      title: "PRESION",
       font: {
         family: "Times New Roman",
       },
@@ -39,7 +42,7 @@ fetch("dataSet.json")
         title: "HORA",
       },
       yaxis: {
-        title: "PRESION",
+        title: "PRESIÓN",
       },
     };
 

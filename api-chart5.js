@@ -1,3 +1,7 @@
+/*****************************************************************************/
+//---------------------RELOJ DE LA HUMEDAD RELATIVA--------------------------//
+/*****************************************************************************/
+
 var humedad = [];
 // Consumo de la API
 fetch("dataSet.json")
@@ -14,21 +18,16 @@ fetch("dataSet.json")
       }
     });
 
-    let mayor = 0;
-    for (i = 0; i < humedad.length; i++) {
-      if (humedad[i] > mayor) {
-        mayor = humedad[i];
-      }
-    }
-    console.log(mayor);
+    let ultimoValor = humedad[humedad.length - 1];
+
+    console.log(ultimoValor);
 
     var data = [
       {
         type: "indicator",
-        //value: mayor,
-        value: 430,
+        value: ultimoValor,
         delta: { reference: 160 },
-        gauge: { axis: { visible: false, range: [0, 1000] } },
+        gauge: { axis: { visible: false, range: [20, 80] } },
         domain: { row: 0, column: 0 },
       },
     ];
@@ -36,18 +35,17 @@ fetch("dataSet.json")
     var data = [
       {
         domain: { x: [0, 1], y: [0, 1] },
-        //value: mayor,
-        value: 687,
-        title: { text: "Humedad" },
+        value: ultimoValor,
+        title: { text: "Humedad relativa (%)" },
         type: "indicator",
         mode: "gauge+number",
         delta: { reference: 400 },
-        gauge: { axis: { range: [null, 1000] } },
+        gauge: { axis: { range: [20, 80] } },
         marker: {
-          color: 'red',
-          size: 12
-        }
-      }
+          color: "red",
+          size: 12,
+        },
+      },
     ];
     var layout = {
       height: 280,
@@ -57,12 +55,11 @@ fetch("dataSet.json")
             {
               title: { text: "Humedad" },
               mode: "number+delta+gauge",
-              delta: { reference: 90 }
-            }
-          ]
-        }
-      }
-  
+              delta: { reference: 90 },
+            },
+          ],
+        },
+      },
     };
 
     Plotly.newPlot("div5", data, layout);
