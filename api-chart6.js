@@ -21,6 +21,12 @@ fetch("dataSet.json")
     let ultimoValor = presion[presion.length - 1];
     console.log(ultimoValor);
 
+    let ultimaHora = datos_obtenidos[datos_obtenidos.length - 1].hora;
+    console.log(ultimaHora);
+
+    var divHora = document.getElementById('div_hora');
+    divHora.innerHTML += ultimaHora;
+
     var data = [
       {
         domain: { x: [0, 1], y: [0, 1] },

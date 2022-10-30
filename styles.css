@@ -38,3 +38,14 @@
 #titulo_temperatura{
     margin-top: 40px;
 }
+
+#hora_actual{
+    margin-top: 70px;
+    text-align: center;
+    text-shadow: 1px 1px 1px black, 2px 2px 1px black;
+    font-size: 30px;
+}
+
+#div_hora{
+    font-size: 30px;
+}
