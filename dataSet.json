@@ -1,128 +1,86 @@
 [
   {
-    "Temperatura": "23",
-    "Humedad": "58",
-    "Presion": "813.17",
-    "Hora": "21:55:57"
+    "temperatura": "23",
+    "humedad": "57",
+    "presion": "813.02",
+    "hora": "22:20:59"
   },
   {
-    "Temperatura": "23",
-    "Humedad": "58",
-    "Presion": "813.21",
-    "Hora": "21:55:58"
+    "temperatura": "23",
+    "humedad": "57",
+    "presion": "812.95",
+    "hora": "22:21:00"
   },
   {
-    "Temperatura": "23",
-    "Humedad": "58",
-    "Presion": "813.11",
-    "Hora": "21:56:00"
+    "temperatura": "23",
+    "humedad": "57",
+    "presion": "812.98",
+    "hora": "22:21:01"
   },
   {
-    "Temperatura": "23",
-    "Humedad": "58",
-    "Presion": "813.18",
-    "Hora": "21:56:02"
+    "temperatura": "23",
+    "humedad": "57",
+    "presion": "812.99",
+    "hora": "22:21:02"
   },
   {
-    "Temperatura": "23",
-    "Humedad": "58",
-    "Presion": "813.15",
-    "Hora": "21:56:03"
+    "temperatura": "23",
+    "humedad": "57",
+    "presion": "812.95",
+    "hora": "22:21:03"
   },
   {
-    "Temperatura": "23",
-    "Humedad": "58",
-    "Presion": "813.14",
-    "Hora": "21:56:05"
+    "temperatura": "23",
+    "humedad": "57",
+    "presion": "813.01",
+    "hora": "22:21:04"
   },
   {
-    "Temperatura": "23",
-    "Humedad": "58",
-    "Presion": "813.18",
-    "Hora": "21:56:06"
+    "temperatura": "23",
+    "humedad": "57",
+    "presion": "812.97",
+    "hora": "22:21:05"
   },
   {
-    "Temperatura": "23",
-    "Humedad": "58",
-    "Presion": "813.17",
-    "Hora": "21:56:08"
+    "temperatura": "23",
+    "humedad": "57",
+    "presion": "812.98",
+    "hora": "22:21:06"
   },
   {
-    "Temperatura": "23",
-    "Humedad": "58",
-    "Presion": "813.17",
-    "Hora": "21:56:09"
+    "temperatura": "23",
+    "humedad": "57",
+    "presion": "813.03",
+    "hora": "22:21:07"
   },
   {
-    "Temperatura": "23",
-    "Humedad": "59",
-    "Presion": "813.18",
-    "Hora": "21:56:11"
+    "temperatura": "23",
+    "humedad": "57",
+    "presion": "813.03",
+    "hora": "22:21:08"
   },
   {
-    "Temperatura": "23",
-    "Humedad": "59",
-    "Presion": "813.19",
-    "Hora": "21:56:12"
+    "temperatura": "23",
+    "humedad": "57",
+    "presion": "812.97",
+    "hora": "22:21:10"
   },
   {
-    "Temperatura": "23",
-    "Humedad": "59",
-    "Presion": "813.08",
-    "Hora": "21:56:14"
+    "temperatura": "23",
+    "humedad": "57",
+    "presion": "812.98",
+    "hora": "22:21:12"
   },
   {
-    "Temperatura": "23",
-    "Humedad": "59",
-    "Presion": "813.21",
-    "Hora": "21:56:15"
+    "temperatura": "23",
+    "humedad": "57",
+    "presion": "813.06",
+    "hora": "22:21:13"
   },
   {
-    "Temperatura": "23",
-    "Humedad": "59",
-    "Presion": "813.18",
-    "Hora": "21:56:17"
-  },
-  {
-    "Temperatura": "23",
-    "Humedad": "59",
-    "Presion": "813.19",
-    "Hora": "21:56:19"
-  },
-  {
-    "Temperatura": "23",
-    "Humedad": "59",
-    "Presion": "813.14",
-    "Hora": "21:56:20"
-  },
-  {
-    "Temperatura": "23",
-    "Humedad": "59",
-    "Presion": "813.17",
-    "Hora": "21:56:22"
-  },
-  {
-    "Temperatura": "23",
-    "Humedad": "59",
-    "Presion": "813.15",
-    "Hora": "21:56:23"
-  },
-  {
-    "Temperatura": "23",
-    "Humedad": "59",
-    "Presion": "813.23",
-    "Hora": "21:56:25"
-  },
-  {
-    "Temperatura": "23",
-    "Humedad": "59",
-    "Presion": "813.16",
-    "Hora": "21:56:26"
-  },
-  {
-    "Temperatura": "23",
-    "Humedad": "59",
-    "Presion": "813.08",
-    "Hora": "21:56:28"
+    "temperatura": "23",
+    "humedad": "58",
+    "presion": "812.99",
+    "hora": "22:21:15"
   }
 ]
